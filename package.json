@@ -1,0 +1,27 @@
+{
+  "name": "puhelinluettelobackend",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eddiejjay/FullStackOpen2020-osa3.git"
+  },
+  "author": "Eero Mäki-Kokkila",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Eddiejjay/FullStackOpen2020-osa3/issues"
+  },
+  "homepage": "https://github.com/Eddiejjay/FullStackOpen2020-osa3#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
