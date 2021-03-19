@@ -1,7 +1,7 @@
-POST https://tranquil-island-35503.herokuapp.com/api/persons/
+POST  http://localhost:3001/api/persons
 content-type: application/json
 
 {
-    "name": "jorma",
-    "number": "04034343434"
+    "name": "ef",
+    "number": "04333"
 }

@@ -1,1 +1,1 @@
-DELETE https://tranquil-island-35503.herokuapp.com/api/persons/2
+DELETE http://localhost:3001/api/persons/604f4692636f6dc605283581

@@ -1,1 +1,1 @@
-GET https://tranquil-island-35503.herokuapp.com/api/persons/
+GET http://localhost:3001/api/persons
