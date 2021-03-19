@@ -80,17 +80,17 @@ app.get('/api/info', (req, res) => {
     const body = req.body
     console.log(body)
 
-    if (!body.name) {
-    return res.status(400).json({ 
-      error: 'name missing' 
-    })
-  }
+  //   if (!body.name) {
+  //   return res.status(400).json({ 
+  //     error: 'name missing' 
+  //   })
+  // }
 
-  if (!body.number) {
-    return res.status(400).json({ 
-      error: 'number missing' 
-    })
-  }
+  // if (!body.number) {
+  //   return res.status(400).json({ 
+  //     error: 'number missing' 
+  //   })
+  // }
   // if (Person.find(person => person.name === body.name)) {
   //   return res.status(400).json({ 
   //     error: 'name must be unique' 
